@@ -33,7 +33,7 @@ NEXUS is a strategic orchestration system that teaches Claude to:
 
 ```bash
 # Add NEXUS marketplace
-/plugin marketplace add https://raw.githubusercontent.com/nexus-ai/nexus/main/.claude-plugin/marketplace.json
+/plugin marketplace add https://raw.githubusercontent.com/romiluz13/nexus/main/.claude-plugin/marketplace.json
 
 # Restart Claude Code, then install plugins
 /plugin install feature-development@nexus
@@ -365,8 +365,8 @@ MIT License - see [LICENSE](./LICENSE) file for details.
 
 ## 🔗 Links
 
-- **Repository**: https://github.com/nexus-ai/nexus
-- **Issues**: https://github.com/nexus-ai/nexus/issues
+- **Repository**: https://github.com/romiluz13/nexus
+- **Issues**: https://github.com/romiluz13/nexus/issues
 - **Changelog**: [CHANGELOG.md](./CHANGELOG.md)
 - **Transformation Report**: [TRANSFORMATION_REPORT.md](./TRANSFORMATION_REPORT.md)
 

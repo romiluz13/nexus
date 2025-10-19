@@ -20,9 +20,9 @@
       "quality",
       "anti-hallucination"
     ],
-    "repository": "https://github.com/nexus-ai/nexus",
+    "repository": "https://github.com/romiluz13/nexus",
     "license": "MIT",
-    "homepage": "https://github.com/nexus-ai/nexus#readme"
+    "homepage": "https://github.com/romiluz13/nexus#readme"
   },
   "plugins": [
     {
