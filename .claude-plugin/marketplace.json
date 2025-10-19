@@ -28,22 +28,41 @@
     {
       "name": "feature-development",
       "source": "./plugins/feature-development",
-      "description": "Strategic feature development with complexity analysis (5-dimension scoring), workflow orchestration (Direct/Blueprint/Epic), and requirements engineering"
+      "description": "Strategic feature development with complexity analysis (5-dimension scoring), workflow orchestration (Direct/Blueprint/Epic), and requirements engineering",
+      "skills": [
+        "./plugins/feature-development/skills/complexity-analyzer",
+        "./plugins/feature-development/skills/workflow-orchestrator",
+        "./plugins/feature-development/skills/requirements-engineer"
+      ]
     },
     {
       "name": "bug-fixing",
       "source": "./plugins/bug-fixing",
-      "description": "Systematic debugging with 5-phase methodology and advanced root cause analysis for complex issues"
+      "description": "Systematic debugging with 5-phase methodology and advanced root cause analysis for complex issues",
+      "skills": [
+        "./plugins/bug-fixing/skills/debugging-methodology",
+        "./plugins/bug-fixing/skills/root-cause-analyzer"
+      ]
     },
     {
       "name": "code-quality",
       "source": "./plugins/code-quality",
-      "description": "Comprehensive code quality with smell detection, refactoring patterns, and intelligent test coverage improvement"
+      "description": "Comprehensive code quality with smell detection, refactoring patterns, and intelligent test coverage improvement",
+      "skills": [
+        "./plugins/code-quality/skills/code-smell-detector",
+        "./plugins/code-quality/skills/refactoring-patterns",
+        "./plugins/code-quality/skills/test-coverage-improver"
+      ]
     },
     {
       "name": "documentation",
       "source": "./plugins/documentation",
-      "description": "Complete documentation suite: API docs (OpenAPI/Swagger), architecture documentation (ADRs, C4), and inline code comments"
+      "description": "Complete documentation suite: API docs (OpenAPI/Swagger), architecture documentation (ADRs, C4), and inline code comments",
+      "skills": [
+        "./plugins/documentation/skills/api-documentation",
+        "./plugins/documentation/skills/architecture-documentation",
+        "./plugins/documentation/skills/code-comments"
+      ]
     }
   ]
 }
