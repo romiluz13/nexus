@@ -1,0 +1,14 @@
+{
+  "name": "documentation",
+  "version": "0.4.0",
+  "description": "Complete documentation suite: OpenAPI/Swagger API docs, architecture documentation (ADRs, C4 diagrams), and inline code comments (JSDoc/TSDoc)",
+  "author": {
+    "name": "NEXUS Team"
+  },
+  "keywords": ["documentation", "api-docs", "architecture", "comments"],
+  "skills": [
+    "api-documentation",
+    "architecture-documentation",
+    "code-comments"
+  ]
+}

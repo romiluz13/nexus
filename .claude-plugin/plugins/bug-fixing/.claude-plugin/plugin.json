@@ -1,0 +1,13 @@
+{
+  "name": "bug-fixing",
+  "version": "0.4.0",
+  "description": "Systematic debugging with 5-phase methodology (Understand → Isolate → Hypothesize → Test → Fix) and advanced root cause analysis",
+  "author": {
+    "name": "NEXUS Team"
+  },
+  "keywords": ["debugging", "bug-fixing", "root-cause", "troubleshooting"],
+  "skills": [
+    "debugging-methodology",
+    "root-cause-analyzer"
+  ]
+}

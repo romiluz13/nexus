@@ -1,0 +1,49 @@
+{
+  "name": "nexus",
+  "owner": {
+    "name": "nexus-team",
+    "email": "contact@nexus-ai.dev"
+  },
+  "metadata": {
+    "description": "Strategic orchestration system for AI-powered development with commanding protocol and anti-hallucination validation",
+    "version": "0.4.0",
+    "keywords": [
+      "orchestration",
+      "workflow",
+      "strategy",
+      "development",
+      "ai-assisted",
+      "complexity-analysis",
+      "debugging",
+      "refactoring",
+      "documentation",
+      "quality",
+      "anti-hallucination"
+    ],
+    "repository": "https://github.com/nexus-ai/nexus",
+    "license": "MIT",
+    "homepage": "https://github.com/nexus-ai/nexus#readme"
+  },
+  "plugins": [
+    {
+      "name": "feature-development",
+      "source": "./.claude-plugin/plugins/feature-development",
+      "description": "Strategic feature development with complexity analysis (5-dimension scoring), workflow orchestration (Direct/Blueprint/Epic), and requirements engineering"
+    },
+    {
+      "name": "bug-fixing",
+      "source": "./.claude-plugin/plugins/bug-fixing",
+      "description": "Systematic debugging with 5-phase methodology and advanced root cause analysis for complex issues"
+    },
+    {
+      "name": "code-quality",
+      "source": "./.claude-plugin/plugins/code-quality",
+      "description": "Comprehensive code quality with smell detection, refactoring patterns, and intelligent test coverage improvement"
+    },
+    {
+      "name": "documentation",
+      "source": "./.claude-plugin/plugins/documentation",
+      "description": "Complete documentation suite: API docs (OpenAPI/Swagger), architecture documentation (ADRs, C4), and inline code comments"
+    }
+  ]
+}
